@@ -10,7 +10,6 @@ const cors = require("cors")
 const authRoutes = require('./routes/auth')
 const songRoutes = require('./routes/song')
 const playlistRoutes = require('./routes/playlist')
-
 require("dotenv").config();
 app.use(cors())
 

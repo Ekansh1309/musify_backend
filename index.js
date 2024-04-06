@@ -12,7 +12,6 @@ const songRoutes = require('./routes/song')
 const playlistRoutes = require('./routes/playlist')
 
 require("dotenv").config();
-
 app.use(cors())
 
 const PORT = process.env.PORT || 4000

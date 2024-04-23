@@ -16,7 +16,3 @@ const connectWithDb=()=>{
 }
 
 module.exports= connectWithDb;
-
-// eku130902
-// aNKXed4N0t5J9ECL
-// mongodb+srv://eku130902:aNKXed4N0t5J9ECL@cluster0.bcftoor.mongodb.net/
